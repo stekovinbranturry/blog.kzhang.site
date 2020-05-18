@@ -4,14 +4,14 @@
 # ---------------
 theme_color:
   enable: true
-  main: "#39adb5"
-  paginator: "#39adb5"
-  button_hover: "#FF7242"
-  text_selection: "#00C4B6"
-  link_color: "#858585"
-  hr_color: "#39adb5"
-  tag_start_color: "#A4D8FA"
-  tag_end_color: "#1B9EF3"
+  main: '#39adb5'
+  paginator: '#39adb5'
+  button_hover: '#FF7242'
+  text_selection: '#00C4B6'
+  link_color: '#858585'
+  hr_color: '#39adb5'
+  tag_start_color: '#A4D8FA'
+  tag_end_color: '#1B9EF3'
 
 # Main menu navigation
 menu:
@@ -41,7 +41,7 @@ pwa:
 
 # Highlight theme
 # ---------------
-highlight_theme: light
+highlight_theme: default
 
 # code_word_wrap: true or false
 
@@ -126,7 +126,7 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: 
+avatar:
 
 top_img: false # false or url of img
 
