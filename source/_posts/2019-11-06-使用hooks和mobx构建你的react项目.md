@@ -12,13 +12,15 @@ categories:
 
 使用 React hooks 和 mobx 开发 React 项目也有一段时间了，对我来说，这是代码最少最简洁的技术组合和最舒适的开发方式。之前使用 class 组件，和 redux 管理状态的方式，深感其代码之繁琐。这篇博客通过使用 hooks 和 mobx 构建一个 todo APP，带大家来体验一下船新的开发方式
 
+<!-- more -->
+
+
 ## 什么是 React hooks
 
 > “Hook 是 React 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性。” -- 官网
 
 Hook 发布也有一定时间了，相信大家对它都不会很陌生。如果不是很清楚的话，可以阅读[官网](https://zh-hans.reactjs.org/docs/hooks-intro.html)文档，写的很清晰明了, 也可以参考一下我朋友写的一篇 blog [react-hooks](https://songqiuxiao.github.io/2019/10/25/react-hooks/#more), 在此不过多介绍。
 
-<!-- more -->
 
 ## 什么是 mobx
 

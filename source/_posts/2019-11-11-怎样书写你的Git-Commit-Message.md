@@ -7,15 +7,15 @@ categories:
   - [技术, git]
 ---
 
-> 最近在组内搞 Git 的规范，之前 CTO 在 engineering doc 里面有提到一篇如何写 commit message 的文章，把它翻译出来，供大家学习参考。原文详见于 https://chris.beams.io/posts/git-commit/
+最近在组内搞 Git 的规范，之前 CTO 在 engineering doc 里面有提到一篇如何写 commit message 的文章，把它翻译出来，供大家学习参考。原文详见于 https://chris.beams.io/posts/git-commit/
+
+<!-- more -->
 
 ![](/img/git-commit.png)
 
 # 介绍：为什么好的 commit messages 很重要
 
 如果你随便打开一个 Git 仓库的 commit log，你会发现他们都会有程度不一的混乱。看下我前段时间提交到[Spring 项目的 💩💩💩](https://github.com/spring-projects/spring-framework/commits/e5f4b49?author=cbeams)。
-
-<!-- more -->
 
 ```BASH
 $ git log --oneline -5 --author cbeams --before "Fri Mar 26 2009"
